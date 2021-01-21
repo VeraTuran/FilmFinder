@@ -1,0 +1,1 @@
+Munis-toi de ta clé API pour OMDb :)
